@@ -1,0 +1,14 @@
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\bin\Debug\net8.0\SistemaDeBiblioteca.exe
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\bin\Debug\net8.0\SistemaDeBiblioteca.deps.json
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\bin\Debug\net8.0\SistemaDeBiblioteca.runtimeconfig.json
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\bin\Debug\net8.0\SistemaDeBiblioteca.dll
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\bin\Debug\net8.0\SistemaDeBiblioteca.pdb
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\obj\Debug\net8.0\SistemaDeBiblioteca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\obj\Debug\net8.0\SistemaDeBiblioteca.AssemblyInfoInputs.cache
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\obj\Debug\net8.0\SistemaDeBiblioteca.AssemblyInfo.cs
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\obj\Debug\net8.0\SistemaDeBiblioteca.csproj.CoreCompileInputs.cache
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\obj\Debug\net8.0\SistemaDeBiblioteca.dll
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\obj\Debug\net8.0\refint\SistemaDeBiblioteca.dll
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\obj\Debug\net8.0\SistemaDeBiblioteca.pdb
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\obj\Debug\net8.0\SistemaDeBiblioteca.genruntimeconfig.cache
+C:\Users\JuanU\source\repos\SistemaDeBiblioteca\SistemaDeBiblioteca\obj\Debug\net8.0\ref\SistemaDeBiblioteca.dll
