@@ -1,5 +1,5 @@
 # System-Library
-📚 Sistema de Gerenciamento de Biblioteca
+📚 Sistema de Gerenciamento de Biblioteca.
 Este projeto é um sistema simples e funcional para gerenciamento de uma biblioteca. Ele permite:
 
 📖 Cadastro de livros: Adicionar livros com informações como título, autor e disponibilidade.
