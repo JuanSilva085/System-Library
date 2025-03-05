@@ -13,3 +13,16 @@ Este projeto é um sistema simples e funcional para gerenciamento de uma bibliot
 🔙 Devolução de livros: Controle de devolução, atualizando a disponibilidade e removendo o livro da lista de emprestados.
 
 💻 O sistema usa uma interface de console interativa, tornando a gestão da biblioteca mais prática e organizada.
+
+------------------------------------------------------------------------------------------------------------------------------------------------
+▶️ Como executar o projeto
+Clone o repositório
+
+git clone [https://github.com/seu-usuario/sistema-biblioteca.git](https://github.com/JuanSilva085/System-Library)                                                                            
+cd SistemaDeBiblioteca
+
+Compile o projeto
+dotnet build
+
+Execute o sistema
+dotnet run
