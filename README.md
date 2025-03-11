@@ -18,7 +18,7 @@ Este projeto é um sistema simples e funcional para gerenciamento de uma bibliot
 ▶️ Como executar o projeto
 Clone o repositório
 
-git clone [https://github.com/seu-usuario/sistema-biblioteca.git](https://github.com/JuanSilva085/System-Library)                                                                            
+git clone [https://github.com/JuanSilva085/System-Library.git](https://github.com/JuanSilva085/System-Library)                                                                            
 cd SistemaDeBiblioteca
 
 Compile o projeto
